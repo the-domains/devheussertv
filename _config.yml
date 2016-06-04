@@ -1,0 +1,28 @@
+name: devheussertv
+favicon: null
+layout_spectrum: 0.7428740432951599
+typography_spectrum: 0.8251909378450364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20073920581489801
+  lightness: 0.37756858160719275
+  saturation: 0.524717221967876
+  rhythmicContrast: 0.5166177963837981
+purpose: []
