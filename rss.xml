@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[devheussertv]]></title>
+        <description><![CDATA[devheussertv]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 04 Jun 2016 16:36:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>harry heusser – live</p>]]></description>
+            <link>undefinedharry-heusser-live/index.html</link>
+            <guid isPermaLink="false">c7ea6be6-4f5d-4b12-8ffe-d0f5bb3432d9</guid>
+            <pubDate>Sat, 04 Jun 2016 16:36:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
